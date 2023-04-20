@@ -1,0 +1,492 @@
+[
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 1,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -2890886,
+        "vitesseMax": 2.400634288787842,
+        "distanceRepulsion": 0,
+        "distanceVision": 42.35760498046875
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 1,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -2404632,
+        "vitesseMax": 4.415947437286377,
+        "distanceRepulsion": 6.692109107971191,
+        "distanceVision": 49.82561492919922
+      },
+      {
+        "forceAttraction": 5.820468425750732,
+        "forceRepulsion": 10.682533264160156,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -10351890,
+        "vitesseMax": 7,
+        "distanceRepulsion": 11.935613632202148,
+        "distanceVision": 21.891374588012695
+      }
+    ],
+    "name": "interessant1"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 1,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -6431880,
+        "vitesseMax": 4.669147491455078,
+        "distanceRepulsion": 0,
+        "distanceVision": 43.88336181640625
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 11.859013557434082,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -6443848,
+        "vitesseMax": 3.3631536960601807,
+        "distanceRepulsion": 15.725837707519531,
+        "distanceVision": 40.334930419921875
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 15.395706176757812,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -15964671,
+        "vitesseMax": 2.9796929359436035,
+        "distanceRepulsion": 13.093748092651367,
+        "distanceVision": 50.62847900390625
+      }
+    ],
+    "name": "joli1"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 7.111893653869629,
+        "forceRepulsion": 17,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -11646275,
+        "vitesseMax": 6.204811096191406,
+        "distanceRepulsion": 0,
+        "distanceVision": 18.088682174682617
+      },
+      {
+        "forceAttraction": 11.023965835571289,
+        "forceRepulsion": 16.170387268066406,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -2522258,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 11.372072219848633,
+        "distanceVision": 24.566999435424805
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 17,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -5059966,
+        "vitesseMax": 3.368335247039795,
+        "distanceRepulsion": 2.6234817504882812,
+        "distanceVision": 0
+      }
+    ],
+    "name": "chaine"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 11.231247901916504,
+        "forceRepulsion": 15.635614395141602,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -9376144,
+        "vitesseMax": 5.61278772354126,
+        "distanceRepulsion": 0,
+        "distanceVision": 23.824548721313477
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 1,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -13301619,
+        "vitesseMax": 1.682869791984558,
+        "distanceRepulsion": 11.310589790344238,
+        "distanceVision": 22.624216079711914
+      },
+      {
+        "forceAttraction": 2.2940192222595215,
+        "forceRepulsion": 9.96546459197998,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -905453,
+        "vitesseMax": 3.884646415710449,
+        "distanceRepulsion": 11.079500198364258,
+        "distanceVision": 32.68836975097656
+      }
+    ],
+    "name": "cellule multicolore"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 5.187374591827393,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -16721734,
+        "vitesseMax": 3.5374441146850586,
+        "distanceRepulsion": 0,
+        "distanceVision": 19.737350463867188
+      },
+      {
+        "forceAttraction": 13.127998352050781,
+        "forceRepulsion": 2.218217372894287,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -16473999,
+        "vitesseMax": 3.6735734939575195,
+        "distanceRepulsion": 15.893207550048828,
+        "distanceVision": 18.598894119262695
+      },
+      {
+        "forceAttraction": 11.310013771057129,
+        "forceRepulsion": 15.481371879577637,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -5942276,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 7.142783164978027,
+        "distanceVision": 48.499515533447266
+      }
+    ],
+    "name": "suiveur"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 17,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -6238731,
+        "vitesseMax": 3.0643765926361084,
+        "distanceRepulsion": 0,
+        "distanceVision": 8.286535263061523
+      },
+      {
+        "forceAttraction": 2.6689646244049072,
+        "forceRepulsion": 1,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -15328902,
+        "vitesseMax": 2.0550038814544678,
+        "distanceRepulsion": 7.123754024505615,
+        "distanceVision": 34.736488342285156
+      },
+      {
+        "forceAttraction": 6.183537006378174,
+        "forceRepulsion": 17,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -4211850,
+        "vitesseMax": 6.045002460479736,
+        "distanceRepulsion": 6.353574752807617,
+        "distanceVision": 3.0564346313476562
+      }
+    ],
+    "name": "magma"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 1.8775423765182495,
+        "forceRepulsion": 17,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -2426357,
+        "vitesseMax": 6.6380839347839355,
+        "distanceRepulsion": 0,
+        "distanceVision": 11.605184555053711
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 3.9834604263305664,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -16742074,
+        "vitesseMax": 2.298877239227295,
+        "distanceRepulsion": 11.605184555053711,
+        "distanceVision": 22.151378631591797
+      },
+      {
+        "forceAttraction": 8.206574440002441,
+        "forceRepulsion": 7.209268569946289,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -5999251,
+        "vitesseMax": 4.120492935180664,
+        "distanceRepulsion": 11.116442680358887,
+        "distanceVision": 27.427804946899414
+      }
+    ],
+    "name": "repulse"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 1.8775423765182495,
+        "forceRepulsion": 17,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -2426357,
+        "vitesseMax": 6.6380839347839355,
+        "distanceRepulsion": 0,
+        "distanceVision": 11.605184555053711
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 3.9834604263305664,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -16742074,
+        "vitesseMax": 2.298877239227295,
+        "distanceRepulsion": 11.605184555053711,
+        "distanceVision": 22.151378631591797
+      },
+      {
+        "forceAttraction": 8.206574440002441,
+        "forceRepulsion": 7.209268569946289,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -5999251,
+        "vitesseMax": 4.120492935180664,
+        "distanceRepulsion": 11.116442680358887,
+        "distanceVision": 27.427804946899414
+      }
+    ],
+    "name": "mover contract"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 14.82244873046875,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -8232595,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 0,
+        "distanceVision": 41.91954803466797
+      },
+      {
+        "forceAttraction": 8.805570602416992,
+        "forceRepulsion": 13.727005004882812,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -6277821,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 29.213459014892578,
+        "distanceVision": 0
+      },
+      {
+        "forceAttraction": 4.731076717376709,
+        "forceRepulsion": 15.483307838439941,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -5953092,
+        "vitesseMax": 1.7411249876022339,
+        "distanceRepulsion": 0,
+        "distanceVision": 14.565753936767578
+      }
+    ],
+    "name": "wave"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 9.316757202148438,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -16362037,
+        "vitesseMax": 0.5393633842468262,
+        "distanceRepulsion": 0,
+        "distanceVision": 35.24259567260742
+      },
+      {
+        "forceAttraction": 7.49436092376709,
+        "forceRepulsion": 17,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -3562140,
+        "vitesseMax": 1.1281771659851074,
+        "distanceRepulsion": 15.426231384277344,
+        "distanceVision": 35.942237854003906
+      },
+      {
+        "forceAttraction": 4.774755954742432,
+        "forceRepulsion": 17,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -16143232,
+        "vitesseMax": 2.611964702606201,
+        "distanceRepulsion": 5.876321315765381,
+        "distanceVision": 44.22338104248047
+      }
+    ],
+    "name": "cellule1"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 16.176605224609375,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -10812001,
+        "vitesseMax": 6.164902210235596,
+        "distanceRepulsion": 0,
+        "distanceVision": 29.014720916748047
+      },
+      {
+        "forceAttraction": 0.2663702964782715,
+        "forceRepulsion": 17,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -13953374,
+        "vitesseMax": 1.836280107498169,
+        "distanceRepulsion": 6.124670505523682,
+        "distanceVision": 29.61766815185547
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 17,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -3620774,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 11.020637512207031,
+        "distanceVision": 16.974977493286133
+      }
+    ],
+    "name": "1pulse"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 15,
+        "forceRepulsion": 1,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -7944547,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 0,
+        "distanceVision": 33.06925964355469
+      },
+      {
+        "forceAttraction": 8.952585220336914,
+        "forceRepulsion": 12.223498344421387,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -5974682,
+        "vitesseMax": 0.10000000149011612,
+        "distanceRepulsion": 13.683748245239258,
+        "distanceVision": 35.21388626098633
+      },
+      {
+        "forceAttraction": 15,
+        "forceRepulsion": 16.849777221679688,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -11189757,
+        "vitesseMax": 1.8794838190078735,
+        "distanceRepulsion": 20.9862117767334,
+        "distanceVision": 0
+      }
+    ],
+    "name": "chemins"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 1.7621049880981445,
+        "taille": 3,
+        "nParticules": 300,
+        "couleur": -8466382,
+        "vitesseMax": 1.130601167678833,
+        "distanceRepulsion": 0,
+        "distanceVision": 12.186431884765625
+      },
+      {
+        "forceAttraction": 6.191210746765137,
+        "forceRepulsion": 9.348855972290039,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -16438357,
+        "vitesseMax": 2.6827077865600586,
+        "distanceRepulsion": 12.186431884765625,
+        "distanceVision": 43.76964569091797
+      },
+      {
+        "forceAttraction": 11.136810302734375,
+        "forceRepulsion": 17,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -9985850,
+        "vitesseMax": 3.238276720046997,
+        "distanceRepulsion": 19.223466873168945,
+        "distanceVision": 30.57781410217285
+      }
+    ],
+    "name": "cellule2"
+  },
+  {
+    "especes": [
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 1,
+        "taille": 2,
+        "nParticules": 300,
+        "couleur": -5228115,
+        "vitesseMax": 7,
+        "distanceRepulsion": 0,
+        "distanceVision": 16.48470687866211
+      },
+      {
+        "forceAttraction": 4.019973278045654,
+        "forceRepulsion": 17,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -5857576,
+        "vitesseMax": 0.9595446586608887,
+        "distanceRepulsion": 11.37135124206543,
+        "distanceVision": 25.933059692382812
+      },
+      {
+        "forceAttraction": 0,
+        "forceRepulsion": 15.090967178344727,
+        "taille": 4,
+        "nParticules": 300,
+        "couleur": -9576019,
+        "vitesseMax": 4.517853260040283,
+        "distanceRepulsion": 14.559806823730469,
+        "distanceVision": 61.944915771484375
+      }
+    ],
+    "name": "compact"
+  }
+]
